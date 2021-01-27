@@ -4,10 +4,13 @@
 .config/*
 !.config/nvim
 !.config/alacritty
+!.config/fontconfig
+.config/fontconfig/*
 .config/alacritty/*
 .config/nvim/*
 !.config/nvim/init.vim
 !.config/alacritty/alacritty.yml
+!.config/fontconfig/fonts.conf
 
 !.zshrc
 !.gitignore
