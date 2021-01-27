@@ -1,0 +1,15 @@
+*
+
+!.config/
+.config/*
+!.config/nvim
+!.config/alacritty
+.config/alacritty/*
+.config/nvim/*
+!.config/nvim/init.vim
+!.config/alacritty/alacritty.yml
+
+!.zshrc
+!.gitignore
+!.bashrc
+!.vimrc
